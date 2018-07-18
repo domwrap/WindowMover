@@ -12,7 +12,7 @@ SysGet, Mon3, Monitor, 3
 arrPos := [ Mon0Left, Mon2Left, Mon3Left ]
 
 ; Config which programs you want on which monitor, where 1 = left-most
-arrWindows := { OUTLOOK: 3, chrome: 2 }
+arrWindows := { OUTLOOK: 3, chrome: 2, Code: 3, sublime_text: 2, ssms: 2 }
 
 ; Drink the potion, GUMMY BEEEEARS!
 ; Window window boing boing
